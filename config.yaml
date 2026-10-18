@@ -1,0 +1,4 @@
+dds_topics_file: src/modules/zenoh/ifc_dds_topics.yaml
+px4_repo: https://github.com/in-flight-calibration/PX4-Autopilot
+px4_branch: devel
+msg_dir: msg
